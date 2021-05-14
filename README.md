@@ -10,7 +10,7 @@
 
 ## Download APK from here
 
-> [](https://github.com/harshitmody72/SendingObjects/blob/master/Resources/apk/debug/app-debug.apk?raw=true)
+> [APP](https://github.com/harshitmody72/SendingObjects/blob/master/Resources/apk/debug/app-debug.apk?raw=true)
 
 ## Previews of the application
 
@@ -27,7 +27,7 @@
 > 
 
 ##### Showing Input Details
-
+---
 >![](https://github.com/harshitmody72/SendingObjects/blob/master/Resources/4.png)
 
 
